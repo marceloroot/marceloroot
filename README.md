@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="110" src="https://media1.tenor.com/m/vPNYwVMYbiUAAAAd/crm-development-erp-development.gif"  />
+<img align="right" height="100" src="https://media1.tenor.com/m/vPNYwVMYbiUAAAAd/crm-development-erp-development.gif"  />
 
 ###
 
